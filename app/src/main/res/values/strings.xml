@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lista de Compras</string>
+    <string name="txtFechar">Fechar</string>
+    <string name="txtAtencao">Atenção</string>
+</resources>
