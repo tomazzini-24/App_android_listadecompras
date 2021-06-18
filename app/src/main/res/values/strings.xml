@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Shopping list</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+
+    <string name="textNome">Product: </string>
+    <string name="textNomeHint">Product description... </string>
+    <string name="textQuantidade">The amount: </string>
+    <string name="textQuantidadeHint">Unit quantity... </string>
+    <string name="textPreco">Price: </string>
+    <string name="textPrecoHint">Type the price... </string>
+    <string name="textCategoria" translatable="false">Category </string>
+    <string name="action_settings" translatable="false">To edit</string>
+
+    <string-array name="arrayCategoria">
+        <item>Category...</item>
+        <item>Hygiene products</item>
+        <item>Drinks</item>
+        <item>Staple foods</item>
+        <item>Cleaning</item>
+        <item>Bakery</item>
+        <item>Frozen</item>
+        <item>Fair</item>
+    </string-array>
+
+    <string name="txtAtencao">Heads up</string>
+    <string name="txtMensagem">Confirm product deletion</string>
+    <string name="btnSalvar" translatable="false">Ok</string>
+    <string name="txtCancelar">Cancel </string>
+    <string name="txtSim">Yea </string>
+
+    <string name="toolbartxt">Product Registration</string>
+
+
+</resources>
